@@ -1,0 +1,17 @@
+
+.navbar { 
+position: relative;
+display: flex;
+justify-content: end;
+}
+.Mainbtn {
+position: absolute;
+left: 5rem;
+}
+.btn-secondary {
+  margin: 5px;
+}
+
+.content {
+  margin: 50px;
+}
